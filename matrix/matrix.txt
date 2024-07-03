@@ -1,0 +1,28 @@
+Model Name: decisionTreePCA0_8.sav
+TP: 812, FP: 413
+FN: 411, TN: 787
+
+Model Name: knnPCA0_5.sav
+TP: 881, FP: 344
+FN: 326, TN: 872
+
+Model Name: logisticRegressionScaled0_7.sav
+TP: 916, FP: 309
+FN: 302, TN: 896
+
+Model Name: naiveBayesScaled0_9.sav
+TP: 909, FP: 316
+FN: 324, TN: 874
+
+Model Name: neuralNetworkPCA0_1.sav
+TP: 907, FP: 318
+FN: 335, TN: 863
+
+Model Name: randomForestPCA0_9.sav
+TP: 919, FP: 306
+FN: 309, TN: 889
+
+Model Name: svmScaled0_7.sav
+TP: 909, FP: 316
+FN: 302, TN: 896
+
